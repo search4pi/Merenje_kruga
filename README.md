@@ -24,7 +24,7 @@
 - Анализа и дискусија теореме 3
   - Поставка проблема и поступак
   - [Описани многоугао](https://github.com/search4pi/Merenje_kruga/blob/main/Opisani%20mnogougao.ipynb)
-  - Уписани многоугао
+  - [Уписани многоугао](https://github.com/search4pi/Merenje_kruga/blob/main/Upisani%20mnogougao.ipynb)
   - Тачност почетних разломака
   - Опсег вредности и поступак приближавања
   - Почетни и крајњи многоугао
